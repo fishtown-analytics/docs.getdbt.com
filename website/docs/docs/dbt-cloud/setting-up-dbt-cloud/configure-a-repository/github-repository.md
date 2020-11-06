@@ -1,7 +1,7 @@
 ---
 title: "Connecting your GitHub Account"
 id: "cloud-installing-the-github-application"
-sidebar_label: "Connecting GitHub"
+sidebar_label: "GitHub"
 ---
 
 ## Overview
@@ -14,13 +14,26 @@ Connecting your GitHub account to dbt Cloud unlocks exciting and compelling func
 
 ## Linking dbt Cloud to your GitHub account
 
-To link your dbt Cloud account to your GitHub account, navigate to your [user profile](https://cloud.getdbt.com/#/profile/) and click the [Integrations section](https://cloud.getdbt.com/#/profile/integrations/). Here you can link your GitHub account to dbt Cloud.
+To link your dbt Cloud account to your GitHub account: 
+1. Navigate to your [user profile](https://cloud.getdbt.com/#/profile/) in the upper right hand corner of the screen.
+2. Click into the [Integrations](https://cloud.getdbt.com/#/profile/integrations/) section.
 
 <Lightbox src="/img/docs/dbt-cloud/cloud-configuring-dbt-cloud/profile_integrations_page.png" title="Click the green button to connect dbt Cloud to your GitHub account"/>
 
-On the next page, you can select a GitHub organization to install the dbt Cloud application into.
+3. Click the green button under the Github section to begin the integration process.
+4. Select the Github organization you'd like to install the dbt Cloud application into.
 
 <Lightbox src="/img/docs/dbt-cloud/cloud-configuring-dbt-cloud/github-app-2.png" title="Installing the dbt Cloud application into an organization."/>
+
+## Configuring your Github repository in your Project settings
+
+Now that you've successfully integrated your Github account, you'll be able to clone your repository using the Github app. To do so, follow the steps below:
+1. Click the hamburger menu in the left hand corner.
+2. Select 'Account Settings' from the sidebar.
+3. Click into the Repository section of our project.
+4. Select the "Github" button and choose your preferred repository you'd like to import.
+
+<LoomVideo id="16a2a6fa964d4438a4e240515b9e22bc" />
 
 ## Usage Notes
 

@@ -1,6 +1,7 @@
 ---
-title: "Configuring repositories"
-id: "cloud-configuring-repositories"
+title: "Configuring PR template URLs"
+id: configuring-pr-template"
+sidebar_label: "PR Templates"
 ---
 
 ### Configuring PR template URLs
@@ -47,7 +48,7 @@ https://github.com/fishtown-analytics/jaffle_shop/compare/master..my-branch
 ## Example templates
 
 Some common URL templates are provided below, but please note that the exact
-value may vary depending on your configured git provider. 
+value may vary depending on your configured git provider.
 
 ### GitHub
 ```
