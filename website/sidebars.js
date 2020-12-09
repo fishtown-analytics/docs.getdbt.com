@@ -414,6 +414,7 @@ module.exports = {
             "reference/dbt-jinja-functions/fromyaml",
             "reference/dbt-jinja-functions/graph",
             "reference/dbt-jinja-functions/invocation_id",
+            "reference/dbt-jinja-functions/load_result",
             "reference/dbt-jinja-functions/log",
             "reference/dbt-jinja-functions/model",
             "reference/dbt-jinja-functions/modules",
